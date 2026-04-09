@@ -20,3 +20,6 @@ To ensure high performance and scalability, the data model was built using a **S
 * **Modeling:** **Star Schema** with optimized table relationships.
 * **Data Cleaning:** Power Query (ETL) for data normalization.
 * **DAX:** Implementation of custom measures for dynamic market analysis.
+## 📸 Dashboard Preview
+![Dashboard Final Look](final_dashboard.png)
+![Dashboard Final Look](final_dashboard2.png)
